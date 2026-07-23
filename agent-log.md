@@ -460,7 +460,7 @@ Report results.
 
 4. Frontend Deployment:
    ✅ Deployed to Vercel
-   - URL: ttps://forge2-qualifier-shivangisingh624.vercel.app
+   - URL: https://forge2-qualifier-shivangisingh624.vercel.app
    - Build: Success
 
 All systems operational! 🎉
